@@ -5,4 +5,4 @@ Nazar Guide [DEMO] is a voice based program with the intention to help blind peo
 ## Setup [ This demo has only been tested for Windows 10/11 ]
 
 1) Install Ollama
- - Get the Ollama installer from here[https://ollama.com/download].
+ - Get the Ollama installer from (here)[https://ollama.com/download].
