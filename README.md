@@ -7,4 +7,5 @@ Nazar Guide [DEMO] is a voice based program with the intention to help blind peo
 1) Install Ollama
  - Get the Ollama installer from [here](https://ollama.com/download), and go through the installer steps.
  - Once installed, open a new command prompt window, and type the following to install the Gemma 3 (1B) model:
+
    `ollama pull gemma3:1b`
