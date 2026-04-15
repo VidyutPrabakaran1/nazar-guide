@@ -1,2 +1,2 @@
-# nazar-guide
-N/A
+# Nazar Guide 🗺️
+
