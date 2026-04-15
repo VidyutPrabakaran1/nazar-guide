@@ -1,5 +1,7 @@
 # Nazar Guide 🗺️ [DEMO] 
 
+Live Demo Video - https://drive.google.com/file/d/1Axp7oi130KuddD5rRRAkFtHwxcMD_R7-/view?usp=sharing
+
 Nazar Guide [DEMO] is a voice based program with the intention to help blind people to traverse the world. In this demo it is only equipped with a singular route in suburban India. 
 
 ## Setup [ This demo has only been tested for Windows 10/11 ]
