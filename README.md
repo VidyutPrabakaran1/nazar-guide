@@ -38,5 +38,5 @@ Nazar Guide [DEMO] is a voice based program with the intention to help blind peo
  - <img width="1920" height="1080" alt="cxc" src="https://github.com/user-attachments/assets/dc1959b5-0ef9-42a5-87a6-9783e2f8bd7f" />
  - The program is now fully setup! Press 'Start Recording' on the app on your phone, and start walking to receive directions.
 
-### Credits
+## Credits
  Made by Vidyut Prabakaran ( [Website](https://vidyutprabakaran.github.io/) ) & Muhammad Zaid Landge ( [YouTube - Zapped Zaid](https://www.youtube.com/@ZappedZaid5) )
